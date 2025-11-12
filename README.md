@@ -1,0 +1,1 @@
+This project is a responsive website for a fictional clothing brand. It was built as a front-end exercise using only HTML5, CSS3, and vanilla JavaScript. No frameworks or libraries were used. The focus was on creating a clean, modern UI and practicing core web development skills.
