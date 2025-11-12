@@ -1,1 +1,7 @@
-This project is a responsive website for a fictional clothing brand. It was built as a front-end exercise using only HTML5, CSS3, and vanilla JavaScript. No frameworks or libraries were used. The focus was on creating a clean, modern UI and practicing core web development skills.
+A static website for an apparel brand, demonstrating proficiency in core front-end technologies.
+
+HTML5: Used for semantic structure and content.
+
+CSS3: Used for all styling, layout (Flexbox/Grid), and responsiveness.
+
+JavaScript (ES6+): Used for DOM manipulation to power interactive elements like mobile navigation, image sliders, and product modals.
