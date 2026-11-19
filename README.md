@@ -1,4 +1,4 @@
-A static website for an apparel brand, demonstrating proficiency in core front-end technologies.
+A static website made with entirely vibe coding for an apparel brand, demonstrating proficiency in core front-end technologies.
 
 HTML5: Used for semantic structure and content.
 
